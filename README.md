@@ -1,9 +1,9 @@
 # Installer-Pars
 
-![Build Status](https://img.shields.io/github/workflow/status/yourusername/installer-pars/CI?label=Build%20Status&logo=github)
-![License](https://img.shields.io/github/license/yourusername/installer-pars?label=License&logo=github)
-![Version](https://img.shields.io/github/v/tag/yourusername/installer-pars?label=Version&logo=github)
-![Issues](https://img.shields.io/github/issues/yourusername/installer-pars?label=Issues&logo=github)
+![Build Status](https://img.shields.io/github/workflow/status/RezaAlpha/Installer-Pars/CI?label=Build%20Status&logo=github)
+![License](https://img.shields.io/github/license/RezaAlpha/Installer-Pars?label=License&logo=github)
+![Version](https://img.shields.io/github/v/tag/RezaAlpha/Installer-Pars?label=Version&logo=github)
+![Issues](https://img.shields.io/github/issues/RezaAlpha/Installer-Pars?label=Issues&logo=github)
 
 **Installer-Pars** is the ultimate solution for managing and installing software on Windows. Designed with simplicity and efficiency in mind, this software empowers users to:
 
