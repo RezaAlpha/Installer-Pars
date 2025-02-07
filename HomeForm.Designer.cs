@@ -737,7 +737,7 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Image = global::Installer_RezaAlpha.Properties.Resources._144090903;
+//            this.pictureBox1.Image = global::Installer_RezaAlpha.Properties.Resources._144090903;
             this.pictureBox1.Location = new System.Drawing.Point(13, 7);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(50, 50);
@@ -748,7 +748,7 @@
             // QuitBtn
             // 
             this.QuitBtn.BackColor = System.Drawing.Color.Transparent;
-            this.QuitBtn.BackgroundImage = global::Installer_RezaAlpha.Properties.Resources.icons8_power_button;
+//            this.QuitBtn.BackgroundImage = global::Installer_RezaAlpha.Properties.Resources.icons8_power_button;
             this.QuitBtn.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.QuitBtn.Cursor = System.Windows.Forms.Cursors.Hand;
             this.QuitBtn.FlatAppearance.BorderSize = 0;
